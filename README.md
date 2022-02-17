@@ -2,9 +2,9 @@
 
 Global AI Challenge
 
-Онлайн-конкурс для разработчиков в области создания новых материалов AI4Materials — молодых специалистов, преподавателей, аспирантов, обучающихся ведущих образовательных организаций России и стран ближнего зарубежья
+Online competition for developers in the field of creating new materials AI4Materials - young professionals, teachers, graduate students, students of leading educational organizations in Russia and neighboring countries
 
-Организатор — Университет Иннополис
+Organizer — Innopolis University
 
 A task
 - Prediction of small molecule activity for homologous targets
