@@ -1,4 +1,11 @@
 # Hackathon_Innopolis
+
+Global AI Challenge
+
+Онлайн-конкурс для разработчиков в области создания новых материалов AI4Materials — молодых специалистов, преподавателей, аспирантов, обучающихся ведущих образовательных организаций России и стран ближнего зарубежья
+
+Организатор — Университет Иннополис
+
 A task
 - Prediction of small molecule activity for homologous targets
 - Participants will be provided with a dataset of small molecule inhibitors with known experimental activity against COVID-19
